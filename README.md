@@ -1,1 +1,0 @@
-# my-sample-2d-game
